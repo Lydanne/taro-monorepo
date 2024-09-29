@@ -3,7 +3,7 @@
 ## 目录框架
 
 - apps/
-  - app => vue3 + ts + nutui4 + taro3
+  - vue-app => vue3 + ts + nutui4 + taro3
 - libs/
   - 存放你的项目库
 - scripts/
