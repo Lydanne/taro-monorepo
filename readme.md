@@ -4,6 +4,7 @@
 
 - apps/
   - vue-app => vue3 + ts + nutui4 + taro3
+  - react-app => react18 + ts + nutui4 + taro3
 - libs/
   - 存放你的项目库
 - scripts/
@@ -34,6 +35,39 @@ yarn
 
 ```bash
 yarn workspace app run dev:weapp
+```
+
+## VSCode 插件推荐
+
+### React 开发
+
+```
+名称: React Style Helper
+ID: iceworks-team.iceworks-style-helper
+说明: Easily write styles(CSS/LESS/SASS).
+版本: 1.1.2
+发布者: AppWorks Team
+VS Marketplace 链接: https://marketplace.visualstudio.com/items?itemName=iceworks-team.iceworks-style-helper
+```
+
+```
+名称: ES7+ React/Redux/React-Native snippets
+ID: dsznajder.es7-react-js-snippets
+说明: Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.
+版本: 4.4.3
+发布者: dsznajder
+VS Marketplace 链接: https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+```
+
+### Vue 开发
+
+```
+名称: Vue - Official
+ID: Vue.volar
+说明: Language Support for Vue
+版本: 2.1.6
+发布者: Vue
+VS Marketplace 链接: https://marketplace.visualstudio.com/items?itemName=Vue.volar
 ```
 
 ## About
